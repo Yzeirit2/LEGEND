@@ -1,2 +1,2 @@
 # LEGEND
-Repository containing masters' thesis with utilised code.
+Repository containing uncommented masters' project code with a provided thesis.
